@@ -1,0 +1,5 @@
+Sofware pendukung dalam pembuatan aplikasi
+
+1. Server : XAMPP v3.2.2
+2. Editor : Sublime 3
+3. Pembutan Program : Android Studio
